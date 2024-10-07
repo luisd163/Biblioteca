@@ -1,11 +1,11 @@
 # biblioteca
 
-Descripciín basisca de su Proyecto de POO ...
+Proyecto de gestión de una biblioteca
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Luis Daniel Gómez Vallejo (@luisd163)
+
 
 # Herramientas
 
